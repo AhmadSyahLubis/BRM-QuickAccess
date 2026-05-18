@@ -43,12 +43,12 @@
 ---
 
 ## Author
-Proyek ini dikembangkan oleh: **[NAMA ANDA]**
+Proyek ini dikembangkan oleh: Ahmad Syah Lubis
 
 Hubungi saya di:
 - 📧 **Gmail**: [ahmadsyahlubis62@gmail.com](mailto:ahmadsyahlubis62@gmail.com)
 - 📸 **Instagram**: [@ahmadsyah_62](https://instagram.com/ahmadsyah_62)
-- 💼 **LinkedIn**: [ahmadsyahlubis](www.linkedin.com/in/ahmadsyahlubis)
+- 💼 **LinkedIn**: [ahmadsyahlubis](https://www.linkedin.com/in/ahmadsyahlubis)
 
 ---
 *Dibuat untuk PTPN IV Regional I - Bagian TI*
